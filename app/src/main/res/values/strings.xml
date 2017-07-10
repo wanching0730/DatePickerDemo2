@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePickerDemo1</string>
+    <string name="DateSelection">Select Date</string>
+    <string name="TimeSelection">Select Time</string>
+</resources>
